@@ -1,2 +1,3 @@
 # XOR
-NEURAL XOR PYTORCH
+Python solution in Pytorch for a vector of N=5 dimentions
+
